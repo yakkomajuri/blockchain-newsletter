@@ -8,7 +8,7 @@ It's worth noting that there are no bots involved 🤖 - the content will be han
 
 Additionally, we aim to also release an email version of this newsletter very soon, so stay tuned. 
 
-And last but not least, if this group happens to fill up over the course of the week, do not worry! You can invite your friends to join our second group, which will distribute the exact same content (so there's no need to join both). Here's the link: (https://chat.whatsapp.com/Bkp3qBo2pNJKE3SQo5gSVn)
+And last but not least, if this group happens to fill up over the course of the week, do not worry! You can invite your friends to join our second group, which will distribute the exact same content (so there's no need to join both). Here's the link: https://chat.whatsapp.com/Bkp3qBo2pNJKE3SQo5gSVn
 
 Our first edition will come out next week. In the meanwhile, do not hesitate to contact me if you have any questions. Let's grow together 🌱
 
