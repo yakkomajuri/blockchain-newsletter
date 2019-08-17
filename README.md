@@ -1,5 +1,6 @@
 # The Blockchain Newsletter
-<div style="text-align:center"><img src="./assets/logo.png" /></div>
+
+<div style="text-align:center;"><center><img src="./assets/logo.png" /></center></div>
 
 ## About
 
