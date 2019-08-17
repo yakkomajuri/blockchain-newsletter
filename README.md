@@ -1,5 +1,5 @@
 # The Blockchain Newsletter
-![Logo](./assets/logo.png)
+<div style="text-align:center"><img src="./assets/logo.png" /></div>
 
 ## About
 
