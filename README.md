@@ -1,7 +1,5 @@
 # The Blockchain Newsletter
 
-<div style="text-align:center;"><center><img src="./assets/logo.png" /></center></div>
-
 ## About
 
 Welcome to The Blockchain Newsletter.
@@ -11,3 +9,4 @@ Having it on WhatsApp allows readers to easily check out the material while comm
 
 ## Past editions
 
+![Logo](./assets/logo.png)
