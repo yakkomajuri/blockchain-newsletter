@@ -1,2 +1,2 @@
 # Welcome to The Blockchain Newsletter
-[logo.png]
+[./assets/logo.png]
