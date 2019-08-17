@@ -9,7 +9,7 @@ Having it on WhatsApp allows readers to easily check out the material while comm
 
 ## Past editions
 
-* Week 0
-* Week 1
+* Week 0 [./assets/logo.png]
+* Week 1 [./assets/logo.png]
 
 ![Logo](./assets/logo.png)
