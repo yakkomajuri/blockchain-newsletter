@@ -1,1 +1,1 @@
-# blockchain-newsletter
+# Welcome to The Blockchain Newsletter
