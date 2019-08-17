@@ -9,7 +9,7 @@ Having it on WhatsApp allows readers to easily check out the material while comm
 
 ## Past editions
 
-* [Week 0](./editions/Week0.md)
-* [Week 1](./editions/Week1.md)
+# [Week 0](./editions/Week0.md)
+# [Week 1](./editions/Week1.md)
 
 ![Logo](./assets/logo.png)
