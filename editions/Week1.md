@@ -4,7 +4,7 @@ Grab your ☕and let’s get into what you should know about DLT/Blockchain for 
 
 ### Top headlines of the past week 💥
 
-- Coinbase password bug hits 3,420 users ([bit.ly/tbn-week1-a])
+- Coinbase password bug hits 3,420 users (bit.ly/tbn-week1-a)
 - New Zealand makes crypto salaries legal (bit.ly/tbn-week1-b)
 - IBM, Nokia, Lenovo launch new blockchain network (bit.ly/tbn-week1-c)
 - Ethereum devs accept 6 changes for upcoming fork (bit.ly/tbn-week1-d)
