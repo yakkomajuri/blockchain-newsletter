@@ -11,5 +11,6 @@ Having it on WhatsApp allows readers to easily check out the material while comm
 
 ### [Week 0](./editions/Week0.md)
 ### [Week 1](./editions/Week1.md)
+### [Week 2](./editions/Week2.md)
 
 ![Logo](./assets/logo.png)
