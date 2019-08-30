@@ -4,11 +4,11 @@ Grab your ☕and let’s get into what you should know about DLT/Blockchain for 
 
 ### Top headlines of the past week
 
-- Chainalysis rolls out threat detector for major cryptos (bit.ly/tbn-week2-a)
-- Andrew Yang in favor of blockchain voting (bit.ly/tbn-week2-b)
-- Ethereum poised to be first public blockchain in Hyperledger Consortium (bit.ly/tbn-week2-ç)
-- Congress will continue review of Libra (bit.ly/tbn-week2-d)
-- Bank of England Chief sees digital currency displacing US dollar (bit.ly/tbn-week2-e)
+- Chainalysis rolls out threat detector for major cryptos (https://bit.ly/tbn-week2-a)
+- Andrew Yang in favor of blockchain voting (https://bit.ly/tbn-week2-b)
+- Ethereum poised to be first public blockchain in Hyperledger Consortium (https://bit.ly/tbn-week2-ç)
+- Congress will continue review of Libra (https://bit.ly/tbn-week2-d)
+- Bank of England Chief sees digital currency displacing US dollar (https://bit.ly/tbn-week2-e)
 
 ### Markets
 
@@ -17,13 +17,13 @@ Grab your ☕and let’s get into what you should know about DLT/Blockchain for 
 
 ### Suggested content (Non-technical)
 
-- 5 differences between Cosmos and Polkadot (bit.ly/tbn-week2-f)
-- Beginner’s guide to Stellar Consensus Protocol (bit.ly/tbn-week2-g)
+- 5 differences between Cosmos and Polkadot (https://bit.ly/tbn-week2-f)
+- Beginner’s guide to Stellar Consensus Protocol (https://bit.ly/tbn-week2-g)
 
 ### Suggested content (Technical)
 
-- A blockchain in 200 lines of code (bit.ly/tbn-week2-h)
-- Understanding BFT (bit.ly/tbn-week2-i)
+- A blockchain in 200 lines of code (https://bit.ly/tbn-week2-h)
+- Understanding BFT (https://bit.ly/tbn-week2-i)
 
 ### How do you feel about Central Bank Digital Currencies (CBDCs)?
 
@@ -38,8 +38,8 @@ Grigory, Managing Partner/ Finorgetica Consulting
 ### Thought of the day
 
 “Are private blockchains disruptive?”
-Answer here: bit.ly/tbn-week2-totd
+Answer here: https://bit.ly/tbn-week2-totd
 
-*Missed something? Access bit.ly/tbn-readme to find all past editions of the newsletter.*
+*Missed something? Access https://bit.ly/tbn-readme to find all past editions of the newsletter.*
 
 **As always, feel free to send any suggestions over my way. Have a great week & see you next Monday!** 🔥
