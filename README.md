@@ -11,7 +11,7 @@ Having it on WhatsApp allows readers to easily check out the material while comm
 
 As per request of our readers, a group has been created where open discussion about the contents of the newsletter can take place. Click the link below to join:
 
-### [Discussion Group](https://chat.whatsapp.com/FYocurwfd4fHdHcnCvu61l)
+### [Invite Link](https://chat.whatsapp.com/FYocurwfd4fHdHcnCvu61l)
 
 ## Past editions
 
