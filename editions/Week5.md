@@ -27,5 +27,5 @@ As part of our efforts to shorten the newsletter, our “Thought Of The Day” s
  
 Missed something? Access https://bit.ly/tbn-readme to find all past editions of the newsletter. To join our discussion group use the link https://bit.ly/tbn-discussion.
  
-**As always, feel free to send any suggestions over my way. Have a great week & see you next Monday!**🔥
+**As always, feel free to send any suggestions over my way. Have a great week & see you next Monday!** 🔥
 
