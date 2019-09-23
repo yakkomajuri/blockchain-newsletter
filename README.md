@@ -20,5 +20,7 @@ As per request of our readers, a group has been created where open discussion ab
 ### [Week 2](./editions/Week2.md)
 ### [Week 3](./editions/Week3.md)
 ### [Week 4](./editions/Week4.md)
+### [Week 5](./editions/Week5.md)
+### [Week 6](./editions/Week6.md)
 
 ![Logo](./assets/logo.png)
